@@ -10,3 +10,6 @@ call plug#end()
 set number
 set relativenumber
 syntax on
+
+# lightline.vim
+set laststatus=2
